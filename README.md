@@ -25,3 +25,7 @@ The canvas now responds as it should and the size is now correct.
 --The paint brush sound should be at full volume close to your face, but about 50% volume when your arm is outstretched
 
 The sound now has 3d effect added to it and becomes less loud as the source moves away from the player.
+
+
+Bert Van Itterbeeck
+2ITCSC
